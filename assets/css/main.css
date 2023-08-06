@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+.btn {
+    font-size: 30px;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.btn-1 {
+    background-color: red;
+}
+
+.btn:hover {
+    opacity: 0.7;
+}
+
+.btn-2 {
+    background-color: green;
+}
+
+.btn-3 {
+    background-color: blue;
+}

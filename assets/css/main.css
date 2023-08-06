@@ -34,3 +34,15 @@ body {
 .btn-3 {
     background-color: blue;
 }
+
+.btn-1:active {
+    background-color: green;
+}
+
+.btn-2:active {
+    background-color: blue;
+}
+
+.btn-3:active {
+    background-color: red;
+}
